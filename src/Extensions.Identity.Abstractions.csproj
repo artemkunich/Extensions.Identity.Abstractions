@@ -4,6 +4,9 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>default</LangVersion>
         <Authors>Artem Kunich</Authors>
+        <AssemblyName>Akunich.Extensions.Identity.Abstractions</AssemblyName>
+        <RootNamespace>Akunich.Extensions.Identity.Abstractions</RootNamespace>
+        <PackageId>Akunich.Extensions.Identity.Abstractions</PackageId>
     </PropertyGroup>
 
 </Project>
